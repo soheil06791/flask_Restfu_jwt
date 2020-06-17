@@ -1,0 +1,6 @@
+Flask >= 1.1.0
+Flask-Bcrypt>=0.7.0
+Flask-JWT-Extended >= 3.24.0
+Flask-RESTFul >=0.3.0
+Flask-WTF >= 0.14.0
+
