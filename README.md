@@ -34,6 +34,10 @@ after singup you should be login.
 
 in login you see access token copy that.for create product or see product and logout copy access token in bearer token
 
+yo can see this picture:
+
+https://github.com/soheil06791/flask_Restfu_jwt/blob/master/bearer.PNG
+
 
 
 
